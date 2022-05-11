@@ -23,7 +23,6 @@ try:
     button = browser.find_element_by_css_selector('button.btn')
     button.click()
 
-
 except Exception as error:
     print(f'Произошла ошибка, вот её трэйсбэк: {error}')
 
