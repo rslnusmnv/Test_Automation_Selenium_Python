@@ -4,10 +4,6 @@ import time
 import math
 
 
-
-
-
-
 class TestMainPage1():
 
     # вызываем фикстуру в тесте, передав ее как параметр
